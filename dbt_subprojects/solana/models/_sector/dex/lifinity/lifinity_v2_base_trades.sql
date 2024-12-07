@@ -99,4 +99,4 @@ SELECT
     , tb.inner_instruction_index
     , tb.tx_index
 FROM all_swaps tb
-WHERE first_transfer_out = 1
+-- test WHERE first_transfer_out = 1
